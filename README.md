@@ -4,7 +4,7 @@ Welcome to the official support repository for the SCBC App. This repository con
 
 ## Quick Links
 
-- [Support Documentation](support/README.md)
+- [Support Documentation](SUPPORT.md)
 - [Privacy Policy](PRIVACY_POLICY.md)
 - Email Support: seattlechinatownbookclub@gmail.com
 
@@ -18,14 +18,14 @@ The Seattle Chinatown Book Club App connects readers in the Seattle Chinatown co
 
 ## Getting Help
 
-1. Check our [Support Documentation](support/README.md) for answers to common questions
+1. Check our [Support Documentation](SUPPORT.md) for answers to common questions
 2. Review our [Privacy Policy](PRIVACY_POLICY.md) for data-related questions
 3. Email us at seattlechinatownbookclub@gmail.com for direct support
 
 ## Reporting Issues
 
 If you encounter any problems with the app:
-1. Check the [Support Documentation](support/README.md) for troubleshooting steps
+1. Check the [Support Documentation](SUPPORT.md) for troubleshooting steps
 2. If the issue persists, email us with:
    - A description of the problem
    - Steps to reproduce the issue
